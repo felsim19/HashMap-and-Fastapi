@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "Nombre": "Maracuya",
+        "Precio": "515.000",
+        "Cantidad": 20
+    },
+    {
+        "Id": 2,
+        "Nombre": "Manzana",
+        "Precio": "70.500",
+        "Cantidad": 15
+    },
+    {
+        "Id": 3,
+        "Nombre": "Mora",
+        "Precio": "60.500",
+        "Cantidad": 25
+    },
+    {
+        "Id": 4,
+        "Nombre": "Pi\u00c3\u00b1a",
+        "Precio": "80.500",
+        "Cantidad": 15
+    },
+    {
+        "Id": 5,
+        "Nombre": "Mango",
+        "Precio": "40.500",
+        "Cantidad": 35
+    }
+]

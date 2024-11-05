@@ -1,0 +1,66 @@
+[
+    {
+        "documento": "45678901E",
+        "nombre": "Carlos",
+        "apellido": "Lopez",
+        "correo": "carlos.lopez@example.com",
+        "celular": "600567890",
+        "edad": 40
+    },
+    {
+        "documento": "56789012F",
+        "nombre": "Lucia",
+        "apellido": "Hernandez",
+        "correo": "lucia.hernandez@example.com",
+        "celular": "600678901",
+        "edad": 25
+    },
+    {
+        "documento": "67890123G",
+        "nombre": "Jorge",
+        "apellido": "Gonzalez",
+        "correo": "jorge.gonzalez@example.com",
+        "celular": "600789012",
+        "edad": 33
+    },
+    {
+        "documento": "78901234H",
+        "nombre": "Sofia",
+        "apellido": "Diaz",
+        "correo": "sofia.diaz@example.com",
+        "celular": "600890123",
+        "edad": 29
+    },
+    {
+        "documento": "89012345I",
+        "nombre": "David",
+        "apellido": "Fernandez",
+        "correo": "david.fernandez@example.com",
+        "celular": "600901234",
+        "edad": 27
+    },
+    {
+        "documento": "1000728492",
+        "nombre": "julian",
+        "apellido": "martinez",
+        "correo": "pipe0290@example.com",
+        "celular": "3107486450",
+        "edad": 19
+    },
+    {
+        "documento": "90123456J",
+        "nombre": "elena",
+        "apellido": "perez",
+        "correo": "elenexp@example.com",
+        "celular": "3107486450",
+        "edad": 21
+    },
+    {
+        "documento": "1000728492",
+        "nombre": "julian",
+        "apellido": "martinez",
+        "correo": "pipe0290@example.com",
+        "celular": "3107486450",
+        "edad": 19
+    }
+]
